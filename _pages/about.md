@@ -1,5 +1,7 @@
 ---
 permalink: /about
+title: "About"
+layout: default
 ---
 # [Bootable.Wiki](https://www.bootable.wiki)
 
