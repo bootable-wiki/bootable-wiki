@@ -135,9 +135,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UC0l4ZRLSfTezl-Ipis4izRQ"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
