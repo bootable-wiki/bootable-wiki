@@ -4,4 +4,4 @@
 
 Bootable.Wiki is a [Hacks.Guide](https://hacks.guide/) inspired site helping people create Bootable media in as many ways as possible.
 
-There is also a YouTube (channel)[https://www.youtube.com/channel/UC0l4ZRLSfTezl-Ipis4izRQ].
+There is also a YouTube [channel](https://www.youtube.com/channel/UC0l4ZRLSfTezl-Ipis4izRQ].
