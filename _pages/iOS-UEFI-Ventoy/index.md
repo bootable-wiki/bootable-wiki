@@ -1,5 +1,6 @@
 ---
-layout: posts
+title: "iOS Ventoy Guide"
+layout: single
 ---
 # Requirements
 - UEFI motherboard.
