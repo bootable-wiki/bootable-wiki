@@ -1,4 +1,5 @@
 ---
+permalink: /iOS-UEFI-Ventoy
 title: "iOS Ventoy Guide"
 layout: single
 ---
