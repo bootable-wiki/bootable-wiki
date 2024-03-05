@@ -21,7 +21,7 @@ Steps
 If the format is not "MS-DOS (FAT)" then you cannot use the iOS device to erase & set the format to FAT32. I would suggest trying another flash drive as the default filesystem of flash drives is most often FAT32. If you have no flash drives that are formatted as FAT32, I would suggest buying a new flash drive from a reputable brand such as SanDisk or Samsung. I would not recommend drives with lightning connector built in as they will usually require that you use their specific app.
 
 ## 2. Download Ventoy Bootable zip file
-The iPhone cannot extract ISO files without 3rd party apps. The Ventoy Live CD ISO has been repacked into a zip file with secure boot support. [latest.zip](https://cdntest.bootable.wiki/ventoy_bootable_1_0_97.zip)
+The iPhone cannot extract ISO files without 3rd party apps. The Ventoy Live CD ISO has been repacked into a zip file with secure boot support. [ Download `Ventoy_Bootable.zip`](https://hetznertest.bootable.wiki/ventoy_bootable_1_0_97.zip)
 
 - Open the Files app
 - Open the downloads folder
@@ -48,3 +48,6 @@ The iPhone cannot extract ISO files without 3rd party apps. The Ventoy Live CD I
     - You can install Ventoy to the flash drive you booted the computer with or any other flash drive you plug in.
 - When you see `Ventoy has been successfully installed to the device.` you can unplug the flash drive and plug back into the iPhone
 - You can now download a Linux distro or [Windows ISO](https://duckduckgo.com/?q=Download+Windows+ISO) & copy to the newly made Ventoy disk.
+
+--- 
+Last updated on 2024-Mar-05
