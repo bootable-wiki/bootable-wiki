@@ -23,9 +23,9 @@ If the format is not "MS-DOS (FAT)" then you cannot use the iOS device to erase 
 ## 2. Download Ventoy Bootable zip file
 The iPhone cannot extract ISO files without 3rd party apps. The Ventoy Live CD ISO has been repacked into a zip file with secure boot support. 
 
-[ Download `Ventoy_Bootable.zip`](https://pixeldrain.com/api/file/rZHHGJgQ)
+[ Download `Ventoy_Bootable.zip`](https://pixeldrain.com/api/file/QjRvHHyo)
 
-[ Mirror Download `fat32usb_build104.zip`](https://github.com/catherinedoyel/ventoyimg/releases/)
+[ Mirror Download `fat32usb_build107.zip`](https://github.com/catherinedoyel/ventoyimg/releases/)
 
 - Open the Files app
 - Open the downloads folder
@@ -54,4 +54,4 @@ The iPhone cannot extract ISO files without 3rd party apps. The Ventoy Live CD I
 - You can now download a Linux distro or [Windows ISO](https://duckduckgo.com/?q=Download+Windows+ISO) & copy to the newly made Ventoy disk.
 
 --- 
-Last updated on 2024-Mar-06
+Last updated on 2025-Feb-09
